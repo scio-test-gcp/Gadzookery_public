@@ -1,3 +1,0 @@
-This file exists to create a diff for the "commit PR" test PR.
-Branch: stevesmith-savvy-test-pr-branch-4
-Created: 2026-07-01T17:53:55Z
